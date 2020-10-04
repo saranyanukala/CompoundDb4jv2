@@ -38,6 +38,7 @@ for patnum in fhand1:
 print("pat found   "+str(a))
 print("pub found   "+str(b))
 print("not found   "+str(c))
+
 #fhand.close()
 fhand1.close()
 file1.close()
